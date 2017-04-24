@@ -14,6 +14,7 @@
 		695CFD4F1EAE1829000FD194 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 695CFD4D1EAE1829000FD194 /* LaunchScreen.storyboard */; };
 		695CFD5A1EAE1829000FD194 /* MYAPPSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695CFD591EAE1829000FD194 /* MYAPPSTests.swift */; };
 		695CFD651EAE182A000FD194 /* MYAPPSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695CFD641EAE182A000FD194 /* MYAPPSUITests.swift */; };
+		695CFD731EAE33BB000FD194 /* dwedwe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695CFD721EAE33BB000FD194 /* dwedwe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		695CFD601EAE182A000FD194 /* MYAPPSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MYAPPSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		695CFD641EAE182A000FD194 /* MYAPPSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MYAPPSUITests.swift; sourceTree = "<group>"; };
 		695CFD661EAE182A000FD194 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		695CFD721EAE33BB000FD194 /* dwedwe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dwedwe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				695CFD441EAE1829000FD194 /* AppDelegate.swift */,
 				695CFD461EAE1829000FD194 /* ViewController.swift */,
+				695CFD721EAE33BB000FD194 /* dwedwe.swift */,
 				695CFD481EAE1829000FD194 /* Main.storyboard */,
 				695CFD4B1EAE1829000FD194 /* Assets.xcassets */,
 				695CFD4D1EAE1829000FD194 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				695CFD471EAE1829000FD194 /* ViewController.swift in Sources */,
 				695CFD451EAE1829000FD194 /* AppDelegate.swift in Sources */,
+				695CFD731EAE33BB000FD194 /* dwedwe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
